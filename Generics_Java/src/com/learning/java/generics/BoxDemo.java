@@ -20,6 +20,8 @@ public class BoxDemo {
 	}
 
 	/**
+	 * Count the boxes.
+	 * 
 	 * @param boxes
 	 */
 	public static <U> void countBoxes(java.util.List<Box<U>> boxes) {

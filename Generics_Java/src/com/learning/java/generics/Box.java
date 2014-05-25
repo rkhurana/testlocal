@@ -15,7 +15,7 @@ package com.learning.java.generics;
  */
 public class Box<T> {
 
-	private T t; // T stands for "Type"
+	private T t; // T stands for "Type" and rohit
 
 	public void set(T t) {
 		this.t = t;

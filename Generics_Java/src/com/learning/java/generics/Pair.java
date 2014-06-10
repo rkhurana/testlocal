@@ -11,7 +11,13 @@ package com.learning.java.generics;
  */
 public interface Pair<K, V> {
 
+	/**
+	 * The key.
+	 */
 	public K getKey();
 
+	/**
+	 * The Value.
+	 */
 	public V getValue();
 }
